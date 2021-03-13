@@ -1,4 +1,4 @@
-package opg
+package omysql
 
 import (
 	"fmt"
